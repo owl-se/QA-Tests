@@ -1,0 +1,5 @@
+home\hr_task\pages\Inbox.class
+home\hr_task\pages\BasePage.class
+home\hr_task\pages\PageObject.class
+home\hr_task\BaseTest.class
+home\hr_task\pages\Message.class
